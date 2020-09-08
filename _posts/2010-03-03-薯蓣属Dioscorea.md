@@ -9,7 +9,7 @@ optimized_image: /img/6C069E3F-380C-477D-9CA6-3B61B8A6D819_1_105_c.jpeg
 category: 薯蓣目-薯蓣科
 tags:
   - genus
-author: thiagorossener
+author: ganlu1994
 paginate: true
 ---
 
