@@ -2,14 +2,13 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: 薯蓣属Dioscorea
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: 珠芽小精灵~
+description: 珠芽小精灵~
 image: /img/6C069E3F-380C-477D-9CA6-3B61B8A6D819_1_105_c.jpeg
 optimized_image: /img/6C069E3F-380C-477D-9CA6-3B61B8A6D819_1_105_c.jpeg
 category: 薯蓣目-薯蓣科
 tags:
-  - books
-  - read
+  - genus
 author: thiagorossener
 paginate: true
 ---
