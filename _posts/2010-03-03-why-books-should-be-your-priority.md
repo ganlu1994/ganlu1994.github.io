@@ -4,7 +4,7 @@ layout: post
 title: 薯蓣属Dioscorea
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+image: /img/6C069E3F-380C-477D-9CA6-3B61B8A6D819_1_105_c.jpeg
 optimized_image: /img/6C069E3F-380C-477D-9CA6-3B61B8A6D819_1_105_c.jpeg
 category: 薯蓣目-薯蓣科
 tags:
@@ -13,6 +13,11 @@ tags:
 author: thiagorossener
 paginate: true
 ---
+
+* 珠芽，用于无性繁殖
+* 心形叶
+* 叶脉特点
+* 藤本
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
