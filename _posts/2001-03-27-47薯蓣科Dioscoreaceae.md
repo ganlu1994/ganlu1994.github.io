@@ -9,9 +9,13 @@ category: 薯蓣目
 author: ganlu1994  
 ---
 > 模式属：薯蓣属Dioscorea
+>
 > /dy-oh-SKOR-ee-uh/
+>
 > [(人)PedaniosDioscorides古希腊医生]
+>
 > Named for Pedanios Dioscorides, first century Greek pharmacologist
+>
 > 以一世纪希腊药物学家佩达内斯?迪奥斯科里季斯（Pedanios Dioscorides）命名
 
 产全球热带和温带地区

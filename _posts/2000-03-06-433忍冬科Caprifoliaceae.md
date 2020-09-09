@@ -10,9 +10,13 @@ author: ganlu1994
 ---
 
 > 模式属：⚠️忍冬属Lonicera
+>
 > /luh-NIS-er-a/
+>
 > [(人)AdamLonicer,1528-86,德国植物学家]
+>
 > Named for Adam Lonitzer, 16th century German botanist and author 
+>
 > 命名，16世纪德国植物学家和作家亚当Lonitzer?
 
 产北美，中美洲，非洲，欧亚大陆至东南亚
