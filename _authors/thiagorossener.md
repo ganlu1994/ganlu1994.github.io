@@ -1,15 +1,17 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
+name: ganlu1994
+display_name: GANethe
+position: 甘露
+bio: Love plants
+But I don’t know many plants yet
+Come on! ! !
 github_username: ganlu1994
-facebook_username: 
-twitter_username: 
-instagram_username: 
-linkedin_username: 
-medium_username: 
+researchgate_username: profile/Lu_Gan34
+weibo_username: u/6419642213
+zhihu_username: people/gan-lu-24-77
+bilibili_username: 239569966
+medium_username:
 ---
 
