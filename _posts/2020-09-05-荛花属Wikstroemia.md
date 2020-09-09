@@ -1,7 +1,12 @@
 ---
 layout: post
 title: 荛花属Wikstroemia
-tags: genus    
+tags: genus
+subtitle: 翅膀飞飞︿(￣︶￣)︿
+description: 翅膀飞飞︿(￣︶￣)︿
+optimized_image: /img/2020-09-03-184455_IMG_9709.jpeg
+category: 锦葵目-瑞香科
+author: ganlu1994    
 ---
 
 [锦葵目Malvales-10科339属6138种](https://ganlu1994.github.io/43锦葵目Malvales/)

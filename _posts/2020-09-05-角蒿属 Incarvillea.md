@@ -2,10 +2,11 @@
 layout: post
 title: 角蒿属Incarvillea
 tags: genus    
----
-
-紫葳科唯一草本属，该属也有亚灌木类群
-
+subtitle: 紫葳科唯一草本属，该属也有亚灌木类群
+description: 紫葳科唯一草本属，该属也有亚灌木类群
+optimized_image: /img/2020-09-03-184016_IMG_9696.jpeg
+category: 唇形目-紫葳科
+author: ganlu1994
 ---
 
 [唇形目Lamiales-26科1082属24645种](https://ganlu1994.github.io/56唇形目Lamiales/)
