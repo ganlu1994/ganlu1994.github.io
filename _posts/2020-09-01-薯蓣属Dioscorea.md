@@ -5,7 +5,7 @@ title: 薯蓣属Dioscorea
 subtitle: 珠芽小精灵~
 description: 珠芽小精灵~
 image:
-optimized_image: /img/2020-09-01-173851_IMG_9545.jpeg
+optimized_image: /img/2020-09/2020-09-01-173851_IMG_9545.jpeg
 category: 薯蓣目-薯蓣科
 tags: genus
 author: ganlu1994

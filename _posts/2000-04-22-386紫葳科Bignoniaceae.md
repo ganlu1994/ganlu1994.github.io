@@ -19,4 +19,4 @@ author: ganlu1994
 
 泛热带分布，在北美和东亚延伸至温带地区
 
-![](/img/BIGNONIACEAE.gif)
+![](/img/map/BIGNONIACEAE.gif)
