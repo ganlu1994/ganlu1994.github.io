@@ -1,8 +1,8 @@
 ---
 layout: page
-title: APG system
+title: about
 description: Some description.
-permalink: /APG system/
+permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="GANethe and lielie" width="200">
