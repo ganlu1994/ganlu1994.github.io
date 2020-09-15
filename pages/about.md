@@ -2,15 +2,11 @@
 layout: page
 title: About
 description: Some description.
-permalink: /about/
+permalink: /APG/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
----
-layout: page
-title: APG系统框架
----
 
 # ANA演化阶 (ANA grand)
 
@@ -142,7 +138,7 @@ title: APG系统框架
 
 [水玉簪科Burmanniaceae](https://ganlu1994.github.io/2001/03/46水玉簪科Burmanniaceae/)
 
-[薯蓣科Dioscoreaceae](https://ganlu1994.github.io/2001/03/47薯蓣科Dioscoreaceae/)
+[薯蓣科Dioscoreaceae](https://ganlu1994.github.io/47薯蓣科Dioscoreaceae/)
 
 ## 露兜树目Pandanales
 
