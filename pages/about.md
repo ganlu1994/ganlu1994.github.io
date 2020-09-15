@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: APG system
 description: Some description.
-permalink: /APG/
+permalink: /APG system/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="GANethe and lielie" width="200">
 
 
 # ANA演化阶 (ANA grand)
