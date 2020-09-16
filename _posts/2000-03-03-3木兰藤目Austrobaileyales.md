@@ -4,7 +4,7 @@ title: 3木兰藤目Austrobaileyales
 tags: order   
 subtitle: 曾经的ANITA，其中"ITA"合并为现在的木兰藤目Austrobaileyales
 description: 曾经的ANITA，其中"ITA"合并为现在的木兰藤目Austrobaileyales
-optimized_image: /img/ordrr/3Austrobaileyales.png
+optimized_image: /img/order/3Austrobaileyales.png
 category: ANA grade
 author: ganlu1994  
 ---

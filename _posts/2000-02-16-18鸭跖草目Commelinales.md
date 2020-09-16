@@ -4,7 +4,7 @@ title: 18鸭跖草目Commelinales
 tags: order    
 subtitle: 
 description: 
-optimized_image: /img/ordrr/.png
+optimized_image: /img/order/.png
 category: 单子叶植物
 author: ganlu1994  
 ---

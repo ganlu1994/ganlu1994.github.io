@@ -4,7 +4,7 @@ title: 8木兰目Magnoliales
 tags: order    
 subtitle: 
 description: 
-optimized_image: /img/ordrr/.png
+optimized_image: /img/order/.png
 category: 木兰分支
 author: ganlu1994  
 ---

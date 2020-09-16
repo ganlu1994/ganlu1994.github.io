@@ -4,7 +4,7 @@ title: 32金虎尾目Malpighiales
 tags: order    
 subtitle: 
 description: 
-optimized_image: /img/ordrr/.png
+optimized_image: /img/order/.png
 category: 
 author: ganlu1994  
 ---
