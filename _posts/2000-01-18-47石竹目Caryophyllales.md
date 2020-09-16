@@ -4,7 +4,7 @@ title: 47石竹目Caryophyllales
 tags: order    
 subtitle: 
 description: 
-optimized_image: /img/ordrr/.png
+optimized_image: /img/order/.png
 category: 
 author: ganlu1994  
 ---

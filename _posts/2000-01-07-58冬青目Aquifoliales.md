@@ -4,7 +4,7 @@ title: 58冬青目Aquifoliales
 tags: order    
 subtitle: 
 description: 
-optimized_image: /img/ordrr/.png
+optimized_image: /img/order/.png
 category: 
 author: ganlu1994  
 ---

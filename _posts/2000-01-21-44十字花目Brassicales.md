@@ -4,7 +4,7 @@ title: 44十字花目Brassicales
 tags: order    
 subtitle: 
 description: 
-optimized_image: /img/ordrr/.png
+optimized_image: /img/order/.png
 category: 
 author: ganlu1994  
 ---
