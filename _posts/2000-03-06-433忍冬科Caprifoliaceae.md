@@ -4,7 +4,7 @@ title: 433忍冬科Caprifoliaceae
 tags: family    
 subtitle: 叶对生，常见一对儿小腋芽~
 description: 叶对生，常见一对儿小腋芽~
-optimized_image: /img/2020-09/2020-09-03-185427_IMG_9731.jpeg
+optimized_image: /img/2020-09/2020-09-05-150104_IMG_9778.jpeg
 category: 川续断目
 author: ganlu1994  
 ---
