@@ -9,9 +9,9 @@ category:
 author: ganlu1994  
 ---
 
-> lad
+> 【拉】brassica甘蓝原名
 
-## 3
+## 17科396属4597种
 
 [256叠珠树科Akaniaceae-2属2种](https://ganlu1994.github.io/256叠珠树科Akaniaceae/)
 

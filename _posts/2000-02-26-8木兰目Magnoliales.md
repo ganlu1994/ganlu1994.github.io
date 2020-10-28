@@ -9,9 +9,9 @@ category: 木兰分支
 author: ganlu1994  
 ---
 
-> lad
+> 人名P. Magnol(法)+人名后缀ia
 
-## 3
+## 6科131属3321种
 
 [21肉豆蔻科Myristicaceae-21属520种](https://ganlu1994.github.io/21肉豆蔻科Myristicaceae/)
 

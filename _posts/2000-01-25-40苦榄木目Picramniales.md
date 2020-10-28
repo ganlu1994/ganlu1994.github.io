@@ -9,9 +9,9 @@ category:
 author: ganlu1994  
 ---
 
-> lad
+> (希)pikros苦的+thamnos灌木
 
-## 3
+## 1科3属49种
 
 [232苦榄木科Picramniaceae-3属49种](https://ganlu1994.github.io/232苦榄木科Picramniaceae/)
 

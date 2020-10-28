@@ -9,9 +9,9 @@ category:
 author: ganlu1994  
 ---
 
-> lad
+> 人名M. Malpighi(德)+人名后缀ia
 
-## 3
+## 36科721属17692种
 
 [150香膏木科Humiriaceae-8属56种](https://ganlu1994.github.io/150香膏木科Humiriaceae/)
 

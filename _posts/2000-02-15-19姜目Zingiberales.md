@@ -9,9 +9,9 @@ category: 单子叶植物
 author: ganlu1994  
 ---
 
-> lad
+> 【拉】zingiberi姜原名
 
-## 3
+## 8科95属2633种
 
 [98芭蕉科Musaceae-3属91种](https://ganlu1994.github.io/98芭蕉科Musaceae/)
 

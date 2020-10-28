@@ -9,9 +9,9 @@ category:
 author: ganlu1994  
 ---
 
-> lad
+> 人名Dillenius(德)+人名后缀ia
 
-## 3
+## 1科11属430种
 
 [122五桠果科Dilleniaceae-11属430种](https://ganlu1994.github.io/122五桠果科Dilleniaceae/)
 
