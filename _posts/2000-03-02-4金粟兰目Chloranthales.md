@@ -13,6 +13,6 @@ author: ganlu1994
 
 ## 1科4属77种
 
-* 8金粟兰科Chloranthaceae_4属77种
+[8金粟兰科Chloranthaceae-4属77种](https://ganlu1994.github.io/8金粟兰科Chloranthaceae/)
 
 ![](/img/phylo/64-04金粟兰目.png)
