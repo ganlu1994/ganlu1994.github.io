@@ -17,6 +17,4 @@ author: ganlu1994
 
 [142卫矛科Celastraceae-96属1350种](https://ganlu1994.github.io/142卫矛科Celastraceae/)
 
-![](/img/phylo/.png)
-
-1. A
+![](/img/phylo/64-30卫矛目.png)

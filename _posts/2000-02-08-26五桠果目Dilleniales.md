@@ -15,6 +15,4 @@ author: ganlu1994
 
 [122五桠果科Dilleniaceae-11属430种](https://ganlu1994.github.io/122五桠果科Dilleniaceae/)
 
-![](/img/phylo/.png)
-
-1. A
+![](/img/phylo/64-26五桠果目.png)

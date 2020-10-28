@@ -29,6 +29,17 @@ author: ganlu1994
 
 [105姜科Zingiberaceae-50属1600种](https://ganlu1994.github.io/105姜科Zingiberaceae/)
 
-![](/img/phylo/.png)
+APW (old?) & PPA：
 
-1. A
+![](/img/phylo/64-19姜目P.png)
+
+Givnish et al, 2018：
+
+![](/img/phylo/64-19姜目G2018.png)
+
+1. ⚠️Musaceae的位置不确定：
+    * 姜目最基部科，（Kress et al. (2001，Janssen & Bremer 2004）—— 目前公认
+    * [Heliconiaceae [Musaceae [Lowiaceae + Strelitziaceae]]。（Givnish et al. (2006b）
+    * [Musaceae [Heliconiacaeae [[Lowiaceae + Strelitziaceae] [the ginger families]]]] ，（Wikström et al. (2001）
+2. ⁉️Strelitziaceae也曾作为姜目最基部科（Magallón et al. (2015)）
+3. ✅(Heliconiaceae(Strelitziaceae, Lowiaceae))与姜分支the ginger families[姜分支的英文说法, 关系为((Cannaceae, Marantaceae), (Costaceae, Zingiberaceae))]的关系曾经很混乱，现在已经较为稳定
